@@ -2,7 +2,8 @@
 
 Permittivities of common metals, using the Lorentz-Drude model and data from 'Optical properties of metallic films for vertical-cavity optoelectronic devices', Rakić et al (1998).
 
-## Example usage
+
+## Example usage
 
 ```
 using LorentzDrudeMetals
